@@ -1,11 +1,11 @@
 Test foo
 1
-2
-3 jetzt die geänder
+2 geändert
+3
 4
-5
-6 und die
+5 die auch
+6
 7
-8
+8 und die sowieso
 9
 10 und die
